@@ -1,4 +1,3 @@
 this Venus
 a
-b
 c
